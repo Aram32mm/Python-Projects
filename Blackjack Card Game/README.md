@@ -2,8 +2,8 @@
 
 ## Running The Code
 
-- To run the code first clone the repository using `git clone https://github.com/algoexpert-io/blackjack-card-game.git`.
-- Next `cd blackjack-card-game` and execute the `main.py` file with `python main.py` or `python3 main.py`.
+- To run the code first clone the repository using `git clone https://github.com/Aram32mm/Python-Projects`.
+- Next `cd Blackjack Card Game` and execute the `main.py` file with `python main.py` or `python3 main.py`.
 
 ## Specifications
 For this project you will be asked to create a simple version of the very popular casino game, Blackjack (also known as 21). You will need to use Object Oriented Programming concepts to implement the logic for creating a deck, dealing cards, shuffling, betting and more. You will not need to implement rules including splitting, doubling down and insurance.
