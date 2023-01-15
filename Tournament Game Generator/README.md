@@ -3,7 +3,7 @@
 ## Running The Code
 
 - To run the code first clone the repository using `git clone https://github.com/Aram32mm/Python-Projects`.
-- Next `cd Tournament Game Generator` and execute the `tournament-game-generator.py` file with `python tournament-game-generator.py.py` or `python3 tournament-game-generator.py.py`.
+- Next `cd Tournament Game Generator` and execute the `tournament_game_generator.py` file with `python tournament_game_generator.py` or `python3 tournament_game_generator.py`.
 
 ## Specifications
 
