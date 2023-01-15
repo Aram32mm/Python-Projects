@@ -2,8 +2,8 @@
 
 ## Running The Code
 
-- To run the code first clone the repository using `git clone https://github.com/algoexpert-io/tournament-game-generator.git`.
-- Next `cd tournament-game-generator` and execute the `solution_script.py` file with `python solution_script.py` or `python3 solution_script.py`.
+- To run the code first clone the repository using `git clone https://github.com/Aram32mm/Python-Projects`.
+- Next `cd Tournament Game Generator` and execute the `tournament-game-generator.py` file with `python tournament-game-generator.py.py` or `python3 tournament-game-generator.py.py`.
 
 ## Specifications
 
